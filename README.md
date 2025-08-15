@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre  
-Estudante de desenvolvimento full stack com conhecimentos teóricos e práticos em ferramentas de qualidade, como Postman, Cypress, JMeter, K6, Mocha e Chai. Atuação em ambiente ágil utilizando Scrum e Kanban, com experiência em testes automatizados, testes manuais e exploratórios.
+Estudante de desenvolvimento full stack com conhecimentos teóricos e práticos em ferramentas de qualidade: Postman, Cypress, JMeter, K6, Mocha e Chai. Atuação em ambiente ágil utilizando Scrum e Kanban, com testes automatizados, manuais e exploratórios.
 
 Também tive contato com ferramentas e práticas de gestão de testes, como Jira, Zephyr e BDD, além de realizar testes exploratórios em ambientes desktop e Android.
 
