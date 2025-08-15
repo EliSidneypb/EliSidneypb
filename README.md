@@ -31,10 +31,6 @@ Também tive contato com ferramentas e práticas de gestão de testes, como Jira
 [🔗 Repositório Treinamento](https://github.com/Elibicalho86/Treinamento?tab=readme-ov-file)
 
 
-### ▶️ Continuação...
-
-Novos vídeos serão adicionados.  
-Fique atento! 
 
 ---
 
